@@ -1,4 +1,5 @@
 import sys
+import os
 import pytest
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -7,7 +8,9 @@ try:
     from starter.ml.data import process_data
     from starter.ml.model import train_model, compute_model_metrics
 except ModuleNotFoundError:
-    sys.path.append('.')
+
+    myPath = os.path.dirname(os.path.abspath(__file__))
+    sys.path.insert(0, myPath + '/../')
     from starter.ml.data import process_data
     from starter.ml.model import train_model, compute_model_metrics
 

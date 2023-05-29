@@ -1,3 +1,4 @@
+import os
 import sys
 import json
 import pytest
@@ -6,7 +7,8 @@ from fastapi.testclient import TestClient
 try:
     from main import app
 except ModuleNotFoundError:
-    sys.path.append('.')
+    myPath = os.path.dirname(os.path.abspath(__file__))
+    sys.path.insert(0, myPath + '/../')  
     from main import app
 
 @pytest.fixture(scope="session")
