@@ -15,9 +15,12 @@ except ModuleNotFoundError:
     from starter.ml.model import train_model, compute_model_metrics
 
 
+
 @pytest.fixture
 def data():
-    df = pd.read_csv('./data/cleaned_census.csv')
+    df = pd.read_csv(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)),'..',"data","cleaned_census.csv")
+        )
 
     train, test = train_test_split(df, test_size=0.15)
 
@@ -25,7 +28,9 @@ def data():
 
 @pytest.fixture
 def processed_data():
-    df = pd.read_csv('./data/cleaned_census.csv')
+    df = pd.read_csv(
+        os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","data","cleaned_census.csv")
+        )
     train, test = train_test_split(df, test_size=0.15)
 
     cat_features = [
