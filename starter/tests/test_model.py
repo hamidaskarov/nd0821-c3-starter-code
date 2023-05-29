@@ -3,10 +3,12 @@ import pytest
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-sys.path.append('./')
-
-from starter.ml.data import process_data
-from starter.ml.model import train_model, compute_model_metrics
+try:
+    from starter.ml.data import process_data
+    from starter.ml.model import train_model, compute_model_metrics
+except ModuleNotFoundError:
+    from starter.ml.data import process_data
+    from starter.ml.model import train_model, compute_model_metrics
 
 
 @pytest.fixture

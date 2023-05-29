@@ -3,9 +3,11 @@ import json
 import pytest
 from fastapi.testclient import TestClient
 
-sys.path.append('./')
-
-from main import app
+try:
+    from main import app
+except ModuleNotFoundError:
+    sys.path.append('./')
+    from main import app
 
 @pytest.fixture(scope="session")
 def client():
