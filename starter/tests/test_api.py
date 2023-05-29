@@ -6,7 +6,7 @@ from fastapi.testclient import TestClient
 try:
     from main import app
 except ModuleNotFoundError:
-    sys.path.append('./')
+    sys.path.append('.')
     from main import app
 
 @pytest.fixture(scope="session")
