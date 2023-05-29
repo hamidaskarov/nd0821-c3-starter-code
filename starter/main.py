@@ -5,10 +5,11 @@ from starter.ml.data import process_data
 from starter.ml.model import inference
 import pickle as pkl
 import pandas as pd
+import os
 
 app = FastAPI()
-
-with open("./model/model.pkl", "rb") as f:
+fpath = os.path.join(os.path.dirname(os.path.abspath(__file__)),"model","model.pkl")
+with open(fpath, "rb") as f:
     encoder, lb, model = pkl.load(f)
 
 cat_features = [
