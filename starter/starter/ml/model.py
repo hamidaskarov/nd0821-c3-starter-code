@@ -2,6 +2,8 @@ from sklearn.metrics import fbeta_score, precision_score, recall_score
 from sklearn.ensemble import RandomForestClassifier
 from .data import process_data
 
+import os
+
 # Optional: implement hyperparameter tuning.
 def train_model(X_train, y_train):
     """
@@ -88,5 +90,8 @@ def data_slicing_metrics(test, feature_to_slice, model,encoder,lb, cat_features,
 
         precision, recall, fbeta = compute_model_metrics(y_test, y_preds)
 
-        print(f"Sliced feature: {feature_to_slice}. Value: {item.strip()}. \
-             Scores: precision {precision} | recall {recall} | fbeta {fbeta}")
+        fpath = os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","..","model","slice_output.txt")
+        
+        with open(fpath, 'w') as f: 
+            f.write(f"Sliced feature: {feature_to_slice}. Value: {item.strip()}. \
+                Scores: precision {precision} | recall {recall} | fbeta {fbeta}")
