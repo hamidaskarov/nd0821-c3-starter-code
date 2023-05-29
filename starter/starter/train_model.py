@@ -5,6 +5,7 @@ from ml.data import process_data
 from ml.model import train_model, inference, compute_model_metrics, data_slicing_metrics
 import pandas as pd
 import pickle as pkl
+import os
 # Add the necessary imports for the starter code.
 
 # Add code to load in the data.
@@ -49,6 +50,14 @@ print(f"Precision: {precision}")
 print(f"Recall: {recall}")
 print(f"F-beta: {fbeta}")
 
+fpath = os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","model","slice_output.txt")
 
-for column in cat_features:
-    data_slicing_metrics(test,column,model,encoder,lb,cat_features,"salary")
+with open(fpath, 'w') as f: 
+    for column in cat_features:
+        
+        for feature_to_slice, item, precision, recall, fbeta in \
+                    data_slicing_metrics(test,column,model,encoder,lb,cat_features,"salary"):
+            
+            f.write(
+                f"Sliced feature: {feature_to_slice} | Value: {item.strip()} | Scores: precision {precision} | recall {recall} | fbeta {fbeta}\n"
+            )

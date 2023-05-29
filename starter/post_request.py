@@ -21,4 +21,4 @@ input = {
 
 x = requests.post(url, json = input)
 
-print(x.json())
+print(f"Status code: {x.status_code}, Response: {x.json()}")

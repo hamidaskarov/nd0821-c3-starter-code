@@ -1,103 +1,101 @@
-Precision: 0.7668944570994685
-Recall: 0.6320400500625782
-F-beta: 0.692967409948542
-Sliced feature: workclass. Value: Private.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Federal-gov.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: ?.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Local-gov.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: State-gov.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Self-emp-inc.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Self-emp-not-inc.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Never-worked.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: workclass. Value: Without-pay.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 11th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Some-college.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: HS-grad.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Bachelors.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 7th-8th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Masters.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 5th-6th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Assoc-acdm.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 9th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 10th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Assoc-voc.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 12th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Doctorate.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: 1st-4th.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Prof-school.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: education. Value: Preschool.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Married-civ-spouse.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Divorced.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Never-married.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Separated.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Widowed.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Married-spouse-absent.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: marital-status. Value: Married-AF-spouse.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Craft-repair.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Other-service.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Sales.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Exec-managerial.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Machine-op-inspct.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: ?.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Handlers-cleaners.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Prof-specialty.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Adm-clerical.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Transport-moving.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Tech-support.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Farming-fishing.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Protective-serv.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: occupation. Value: Priv-house-serv.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Husband.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Unmarried.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Own-child.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Not-in-family.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Wife.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: relationship. Value: Other-relative.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: race. Value: White.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: race. Value: Asian-Pac-Islander.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: race. Value: Other.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: race. Value: Black.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: race. Value: Amer-Indian-Eskimo.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: sex. Value: Male.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: sex. Value: Female.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: ?.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: United-States.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: England.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Mexico.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: China.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: India.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Philippines.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Cambodia.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Trinadad&Tobago.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Cuba.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Canada.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Taiwan.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Hong.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Poland.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Jamaica.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Vietnam.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Guatemala.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Ecuador.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Puerto-Rico.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Japan.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Germany.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Dominican-Republic.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Portugal.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Iran.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Greece.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Nicaragua.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Laos.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: El-Salvador.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Italy.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Columbia.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: South.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Haiti.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Ireland.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Yugoslavia.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Honduras.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Peru.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Outlying-US(Guam-USVI-etc).              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: France.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Thailand.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Hungary.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
-Sliced feature: native-country. Value: Scotland.              Scores: precision 0.7668944570994685 | recall 0.6320400500625782 | fbeta 0.692967409948542
+Sliced feature: workclass | Value: ? | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Private | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Local-gov | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Self-emp-inc | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: State-gov | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Self-emp-not-inc | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Federal-gov | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Never-worked | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: workclass | Value: Without-pay | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: HS-grad | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Some-college | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Doctorate | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Bachelors | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 10th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 9th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Prof-school | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Masters | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Assoc-voc | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 1st-4th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 7th-8th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 5th-6th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 11th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Assoc-acdm | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: 12th | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: education | Value: Preschool | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Widowed | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Separated | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Married-civ-spouse | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Never-married | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Divorced | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Married-spouse-absent | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: marital-status | Value: Married-AF-spouse | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: ? | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Adm-clerical | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Exec-managerial | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Sales | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Tech-support | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Transport-moving | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Machine-op-inspct | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Other-service | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Farming-fishing | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Prof-specialty | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Protective-serv | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Craft-repair | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Priv-house-serv | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Handlers-cleaners | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: occupation | Value: Armed-Forces | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Not-in-family | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Husband | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Own-child | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Other-relative | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Unmarried | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: relationship | Value: Wife | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: race | Value: White | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: race | Value: Asian-Pac-Islander | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: race | Value: Black | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: race | Value: Amer-Indian-Eskimo | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: race | Value: Other | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: sex | Value: Female | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: sex | Value: Male | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: United-States | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: ? | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Mexico | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Greece | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Guatemala | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: El-Salvador | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Puerto-Rico | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: South | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Canada | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Italy | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Philippines | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Portugal | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: France | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: England | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Hong | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: India | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Jamaica | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Cuba | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Columbia | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Dominican-Republic | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Ecuador | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Peru | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Germany | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Vietnam | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Iran | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: China | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Poland | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Ireland | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Thailand | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Trinadad&Tobago | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Yugoslavia | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Nicaragua | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Honduras | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Japan | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Laos | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Outlying-US(Guam-USVI-etc) | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Haiti | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Taiwan | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Hungary | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Cambodia | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748
+Sliced feature: native-country | Value: Holand-Netherlands | Scores: precision 0.7579666160849773 | recall 0.6306818181818182 | fbeta 0.6884906960716748

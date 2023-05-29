@@ -90,8 +90,5 @@ def data_slicing_metrics(test, feature_to_slice, model,encoder,lb, cat_features,
 
         precision, recall, fbeta = compute_model_metrics(y_test, y_preds)
 
-        fpath = os.path.join(os.path.dirname(os.path.abspath(__file__)),"..","..","model","slice_output.txt")
-        
-        with open(fpath, 'w') as f: 
-            f.write(f"Sliced feature: {feature_to_slice}. Value: {item.strip()}. \
-                Scores: precision {precision} | recall {recall} | fbeta {fbeta}")
+        yield feature_to_slice, item, precision, recall, fbeta
+
