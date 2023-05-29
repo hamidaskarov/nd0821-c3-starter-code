@@ -70,7 +70,7 @@ class BasicInputData(BaseModel):
 
 @app.get('/')
 def index():
-    return "Welcome! Please use /predict endpoint for inference"
+    return {"message": "Welcome! Please use /predict endpoint for inference"}
 
 
 @app.post('/predict')
